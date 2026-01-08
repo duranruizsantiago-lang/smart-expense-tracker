@@ -2,7 +2,6 @@
 CLI to analyze expenses from CSV
 
 ## How to run
-
 ```powershell
 python -m src.tracker --input .\data\sample_expenses.csv --month 2026-01
 python -m src.tracker --input .\data\sample_expenses.csv --month 2026-01 --export .\reports\report_2026-01.csv
